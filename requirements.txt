@@ -1,7 +1,8 @@
 streamlit
-PyMuPDF
-transformers
-torch
+pymupdf
+nltk
 langdetect
 gtts
+transformers
+torch
 sentencepiece
